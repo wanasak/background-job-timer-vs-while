@@ -1,0 +1,6 @@
+@background_job_timer_vs_while_HostAddress = http://localhost:5065
+
+GET {{background_job_timer_vs_while_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
